@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spin that cat</string>
+    <string name="todo">TODO</string>
+    <string name="button1">Click to speen</string>
+    <string name="button2">click to neeps</string>
+    <string name="todotwo">TODO</string>
+
+</resources>
